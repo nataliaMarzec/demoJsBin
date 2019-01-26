@@ -1,0 +1,26 @@
+{
+  "name": "demojsbin",
+  "version": "1.0.0",
+  "description": "jsbin y otros..",
+  "main": "index.js",
+  "dependencies": {
+    "chair": "^0.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "\"./node_modules/.bin/mocha --reporter spec\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nataliaMarzec/demojsbin.git"
+  },
+  "keywords": [
+    "jsbin"
+  ],
+  "author": "nataliaMarzec",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nataliaMarzec/demojsbin/issues"
+  },
+  "homepage": "https://github.com/nataliaMarzec/demojsbin#readme"
+}
