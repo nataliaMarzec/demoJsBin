@@ -4,7 +4,8 @@
   "description": "jsbin y otros..",
   "main": "index.js",
   "dependencies": {
-    "chair": "^0.0.0"
+    "chair": "0.0.0",
+    "underscore": "^1.9.1"
   },
   "devDependencies": {},
   "scripts": {
